@@ -1,2 +1,1 @@
-# my_TranslationModel
-first model
+# my strange stuff
